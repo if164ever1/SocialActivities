@@ -1,0 +1,17 @@
+E:\Programming\NET\SocialActivities\Application\bin\Debug\net6.0\Application.deps.json
+E:\Programming\NET\SocialActivities\Application\bin\Debug\net6.0\Application.dll
+E:\Programming\NET\SocialActivities\Application\bin\Debug\net6.0\Application.pdb
+E:\Programming\NET\SocialActivities\Application\bin\Debug\net6.0\Domain.dll
+E:\Programming\NET\SocialActivities\Application\bin\Debug\net6.0\Persistence.dll
+E:\Programming\NET\SocialActivities\Application\bin\Debug\net6.0\Persistence.pdb
+E:\Programming\NET\SocialActivities\Application\bin\Debug\net6.0\Domain.pdb
+E:\Programming\NET\SocialActivities\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\Programming\NET\SocialActivities\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\NET\SocialActivities\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\Programming\NET\SocialActivities\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\Programming\NET\SocialActivities\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\Programming\NET\SocialActivities\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\Programming\NET\SocialActivities\Application\obj\Debug\net6.0\Application.dll
+E:\Programming\NET\SocialActivities\Application\obj\Debug\net6.0\refint\Application.dll
+E:\Programming\NET\SocialActivities\Application\obj\Debug\net6.0\Application.pdb
+E:\Programming\NET\SocialActivities\Application\obj\Debug\net6.0\ref\Application.dll

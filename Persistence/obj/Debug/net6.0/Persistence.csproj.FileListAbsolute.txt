@@ -1,0 +1,15 @@
+E:\Programming\NET\SocialActivities\Persistence\bin\Debug\net6.0\Persistence.deps.json
+E:\Programming\NET\SocialActivities\Persistence\bin\Debug\net6.0\Persistence.dll
+E:\Programming\NET\SocialActivities\Persistence\bin\Debug\net6.0\Persistence.pdb
+E:\Programming\NET\SocialActivities\Persistence\bin\Debug\net6.0\Domain.dll
+E:\Programming\NET\SocialActivities\Persistence\bin\Debug\net6.0\Domain.pdb
+E:\Programming\NET\SocialActivities\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+E:\Programming\NET\SocialActivities\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\NET\SocialActivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+E:\Programming\NET\SocialActivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+E:\Programming\NET\SocialActivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Programming\NET\SocialActivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+E:\Programming\NET\SocialActivities\Persistence\obj\Debug\net6.0\Persistence.dll
+E:\Programming\NET\SocialActivities\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+E:\Programming\NET\SocialActivities\Persistence\obj\Debug\net6.0\Persistence.pdb
+E:\Programming\NET\SocialActivities\Persistence\obj\Debug\net6.0\ref\Persistence.dll
